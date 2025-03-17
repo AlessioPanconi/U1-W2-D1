@@ -109,5 +109,5 @@ console.log(name1 == name2);
 /*Extra */
 /*
 console.log(name1 === name1);
-console.log(name1.toLowerCase === name2.toLowerCase);
+console.log(name1. === name2.toLowerCase());
 */
